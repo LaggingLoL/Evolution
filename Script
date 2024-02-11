@@ -137,4 +137,4 @@ getgenv().Evolution = {
     },
 }
 
-loadstring(game:HttpGet("https://github.com/LaggingLoL/Evolution/new/main", true))()
+loadstring(game:HttpGet("https://github.com/LaggingLoL/Evolution/blob/main/Loader", true))()
